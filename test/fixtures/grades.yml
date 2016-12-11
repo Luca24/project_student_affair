@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  grade: 1.5
+  acd_year_iD: 1
+  dep_iD: 1
+  student_iD: 1
+  cource_iD: 1
+
+two:
+  grade: 1.5
+  acd_year_iD: 1
+  dep_iD: 1
+  student_iD: 1
+  cource_iD: 1
